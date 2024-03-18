@@ -1,0 +1,18 @@
+.header {
+  background-color: rgb(68, 115, 244);
+
+background-repeat: repeat-x;
+background-image: url(.//img/pattern.png);
+background-size: 15%;
+}
+
+.logo {
+width: 12%;
+text-align: left;
+margin-top: 20px;
+}
+
+#credits {
+    color: grey;
+}
+
