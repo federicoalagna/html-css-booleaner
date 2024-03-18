@@ -21,6 +21,22 @@ margin-top: 20px;
 }
 
 .container {
-  margin: 0;
   
+}
+
+table {
+   border-collapse: collapse;
+   width: 100%;
+   
+}
+thead {
+    background-color: rgb(68, 115, 244);
+    color: white;
+    text-align: justify;
+    
+}
+
+.linea1 {
+background-color: rgb(84, 191, 223);
+
 }
